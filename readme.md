@@ -12,9 +12,8 @@ This easy home loan calculator will help you calculate monthly mortgage payments
 3. Activate the [Home Loan Calculator](https://www.calculator.io/home-loan-calculator/ "Home Loan Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_home_loan_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Home Loan Calculator to the sidebar through the `Appearance -> Widgets -> Home Loan Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_home_loan_calculator(); ?>` to your template where you would like the Home Loan Calculator to appear.
+* Add the shortcode `[ci_home_loan_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_home_loan_calculator(); ?>` to your template where you would like the Home Loan Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
