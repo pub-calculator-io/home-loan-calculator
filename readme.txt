@@ -1,6 +1,6 @@
 === Home Loan Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: home loan calculator, mortgage calculator, loan payment calculator, home affordability calculator, mortgage payment calculator, loan amortization calculator, home loan interest calculator, calculate home loan, home loan EMI calculator, home loan repayment calculator
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
