@@ -1,4 +1,4 @@
-# Home Loan Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Home Loan Calculator Widget for WordPress
 
 This easy home loan calculator will help you calculate monthly mortgage payments. The mortgage calculator is perfect for both fixed-rate or adjustable-rate home loans.
 
