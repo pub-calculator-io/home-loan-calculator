@@ -7,7 +7,7 @@ This easy home loan calculator will help you calculate monthly mortgage payments
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/home-loan-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /home-loan-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Home Loan Calculator](https://www.calculator.io/home-loan-calculator/ "Home Loan Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
