@@ -1,4 +1,4 @@
-=== Home Loan Calculator by www.calculator.io ===
+=== CI Home loan calculator ===
 Contributors: calculatorio
 Tags: home loan calculator, mortgage calculator, loan payment calculator, home affordability calculator, mortgage payment calculator, loan amortization calculator, home loan interest calculator, calculate home loan, home loan EMI calculator, home loan repayment calculator
 Requires at least: 5.0

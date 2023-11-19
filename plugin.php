@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Home Loan Calculator by www.calculator.io
+Plugin Name: CI Home loan calculator
 Plugin URI: https://www.calculator.io/home-loan-calculator/
 Description: This easy home loan calculator will help you calculate monthly mortgage payments. The mortgage calculator is perfect for both fixed-rate or adjustable-rate home loans.
 Version: 1.0.0
