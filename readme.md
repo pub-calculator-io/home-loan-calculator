@@ -3,7 +3,6 @@
 This easy home loan calculator will help you calculate monthly mortgage payments. The mortgage calculator is perfect for both fixed-rate or adjustable-rate home loans.
 
 ![Home Loan Calculator Input Form](/assets/images/screenshot-1.png "Home Loan Calculator Input Form")
-![Home Loan Calculator Calculation Results](/assets/images/screenshot-2.png "Home Loan Calculator Calculation Results")
 
 ## Installation
 

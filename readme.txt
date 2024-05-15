@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Home Loan Calcu
 == Screenshots ==
 
 1. The Home Loan Calculator Input Form.
-2. The Home Loan Calculator Calculation Results.
 
 == Installation ==
 
